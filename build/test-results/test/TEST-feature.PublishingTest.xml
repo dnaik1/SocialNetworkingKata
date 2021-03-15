@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="feature.PublishingTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-15T02:50:39" hostname="PRFT-14280" time="0.0">
+  <properties/>
+  <testcase name="whenPostMessageIsCalled_messageStructureListIsPopulated" classname="feature.PublishingTest" time="0.0"/>
+  <testcase name="viewTimelineReturnsFalse_whenMessagesAreNotFound" classname="feature.PublishingTest" time="0.0"/>
+  <testcase name="viewTimelineReturnsTrue_whenMessagesAreFound" classname="feature.PublishingTest" time="0.0"/>
+  <system-out><![CDATA[You have not posted a message yet
+Alice: null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

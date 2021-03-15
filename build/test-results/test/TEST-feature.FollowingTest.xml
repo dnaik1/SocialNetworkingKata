@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="feature.FollowingTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-03-15T02:50:39" hostname="PRFT-14280" time="0.016">
+  <properties/>
+  <testcase name="isFollowingReturnsFalse_whenNameIsPresentInTheList" classname="feature.FollowingTest" time="0.0"/>
+  <testcase name="viewAllMessagesReturnsTrue_whenFollowingListIsNotEmpty" classname="feature.FollowingTest" time="0.016"/>
+  <testcase name="viewAllMessagesReturnsFalse_whenFollowingListIsEmpty" classname="feature.FollowingTest" time="0.0"/>
+  <testcase name="isFollowingReturnsTrue_whenNameIsPresentInTheList" classname="feature.FollowingTest" time="0.0"/>
+  <testcase name="whenCharliePublishingMessagesIsCalled_messageStructureListIsPopulated" classname="feature.FollowingTest" time="0.0"/>
+  <system-out><![CDATA[Alice: null (Just Now)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

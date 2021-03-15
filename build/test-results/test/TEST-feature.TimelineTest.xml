@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="feature.TimelineTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-15T02:50:39" hostname="PRFT-14280" time="0.0">
+  <properties/>
+  <testcase name="viewBobTimelineReturnsFalse_whenMessagesAreNotFound" classname="feature.TimelineTest" time="0.0"/>
+  <testcase name="viewBobTimelineReturnsTrue_whenMessagesAreFound" classname="feature.TimelineTest" time="0.0"/>
+  <testcase name="whenBobPublishingMessagesIsCalled_messageStructureListHasTwoElements" classname="feature.TimelineTest" time="0.0"/>
+  <system-out><![CDATA[Bob: null (Just Now)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
